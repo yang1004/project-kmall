@@ -1,0 +1,19 @@
+/*
+* @Author: mac
+* @Date:   2019-08-22 10:32:59
+* @Last Modified by:   mac
+* @Last Modified time: 2019-08-22 10:33:00
+*/
+.footer{
+    margin-top: 10px;
+    text-align: center;
+}
+.links{
+    margin-bottom: 10px;
+}
+.links .link{
+    padding:0 10px;
+}
+.copyright{
+    color: #999;
+}

@@ -1,0 +1,16 @@
+/*
+* @Author: mac
+* @Date:   2019-08-15 17:08:04
+* @Last Modified by:   mac
+* @Last Modified time: 2019-08-15 19:21:45
+*/
+.AdminSider a.active{
+    color: #1DA57A;
+}
+.AdminSider .ant-menu-item-selected{
+    background-color: transparent !important;
+}
+
+.AdminSider .ant-menu-item-selected:after{
+    border-right: none  !important;
+}
